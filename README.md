@@ -37,6 +37,7 @@ The website includes:
 ##  Live Demo
 
 Hosted using Github pages
+[View Live Site](https://jackychris12.github.io/July2025Cohort-Hackathon1/)  
 
 ## Authors
 
