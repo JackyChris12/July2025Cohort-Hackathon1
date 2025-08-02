@@ -96,7 +96,10 @@ body {
   padding: 60px 20px;
   background-color: #050519; 
 }
-
+.head-about{
+  color: #bd34fe;
+  font-size: 24px;
+}
 .about-container {
   display: grid;
   grid-template-columns: 1fr 1fr;
