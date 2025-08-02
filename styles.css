@@ -427,6 +427,9 @@ body {
 
 /* Mobile version */
 @media (max-width: 768px) {
+  body{
+    overflow-x: hidden;
+  }
   .navbar ul {
     flex-direction: column;
     gap: 16px;
@@ -435,7 +438,7 @@ body {
     width: 100%;
     border-left: none;
     border-right: none;
-    border-radius: 0;
+    
   }
 
   .navbar {
@@ -445,6 +448,8 @@ body {
 
   .hero {
     padding: 120px 20px 40px;
+     position: relative;
+    top: 100px; 
   }
 
   .main-heading {
@@ -491,6 +496,11 @@ body {
   .contact-form textarea {
     width: 100%;
   }
+  img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
 }
 
 
