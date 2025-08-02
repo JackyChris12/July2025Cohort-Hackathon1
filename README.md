@@ -29,6 +29,18 @@ The website includes:
 - Image files (e.g. `jackline.jpg`, `Bismark.jpg`, project screenshots)
 
 
+## Quick Start
+
+Follow these steps to view the project locally:
+
+1. Clone the repository  
+git clone https://github.com/JackyChris12/portfolio.git
+cd portfolio
+
+Open the site
+Open the index.html file in any modern browser (Chrome, Firefox, Edge).
+
+No server setup is required since this is a static HTML + CSS project.
 ## Screenshots
 
 ![AgroAI Screenshot](./jacky's_project.jpg)
